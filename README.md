@@ -25,7 +25,7 @@ How to build a solr package
 
 If you want to download a specific version:
 <pre>
-    $ UPSTREAM_VERSION=5.5.4 ./debian/rules get-orig-source
+    $ UPSTREAM_VERSION=5.5.5 ./debian/rules get-orig-source
 </pre>
 
 3. Apply the patches:
