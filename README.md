@@ -1,5 +1,6 @@
 solr Debian package generator (from the pre-built archive)
 ==========================================================
+WARNING: This fork is dedicated for 5.5.5 version or later.
 
 This is a Debian-package generator for solr.
 
